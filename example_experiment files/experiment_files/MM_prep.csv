@@ -1,0 +1,8 @@
+Prepare the MM and transfer to the wells: ,,
+Number of TXTL wells,64, 
+Lysate,148,
+Protein,29.6,
+Energy,59.2,
+PBS,59.2,
+Total MM needed (incl deadV),296, 
+Location of TXTL wells,('M01', 'P08')
